@@ -1,14 +1,14 @@
-# infinite-scroll-vue3
+# infinite-loading-vue3
 An infinite scroll component for Vue 3.0 apps
 
 ## Installation
 ```
-npm install infinite-scroll-vue3
+npm install infinite-loading-vue3
 ```
 
 ## Usage
 ```
-import InfiniteScroll from "infinite-scroll-vue3";
+import InfiniteScroll from "infinite-loading-vue3";
 
 <script>
   export default {
@@ -49,7 +49,7 @@ This can be enabled by the following two props.
 ```
 
 ## Example
-Let's see the *infinite-scroll-vue3* package in action.
+Let's see the *infinite-loading-vue3* package in action.
 
 We will be making a call to GITHUB API and fetch a list of trending repositories. 
 As users scroll to the bottom of the page, results from the next page will be fetched.
@@ -82,7 +82,7 @@ As users scroll to the bottom of the page, results from the next page will be fe
 </template>
 
 <script>
-import InfiniteScroll from 'infinite-scroll-vue3';
+import InfiniteScroll from 'infinite-loading-vue3';
 import axios from "axios";
 
 export default {
