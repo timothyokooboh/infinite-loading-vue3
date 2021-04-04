@@ -4,7 +4,7 @@
   "description": "An infinite scroll component for Vue 3.0 apps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timothyokooboh/infinite-scroll-vue3"
+    "url": "https://github.com/timothyokooboh/infinite-loading-vue3"
   },
   "main": "dist/infinite-scroll-vue3.ssr.js",
   "browser": "dist/infinite-scroll-vue3.esm.js",
